@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f6f6f6"/>
+<rect x="60" y="55" width="1080" height="565" rx="26" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="95" y="118" font-family="Arial" font-size="30" font-weight="700">Сценарий VIP-путешествия по Бразилии</text>
+<text x="95" y="154" font-family="Arial" font-size="18">Что должен связать один организатор в заявленном buyer scenario</text>
+<g transform="translate(95,220)">
+<rect x="0" y="0" width="180" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="90" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Маршрут</text>
+<text x="90" y="72" text-anchor="middle" font-family="Arial" font-size="15">Рио · Игуасу · Амазония</text>
+<path d="M190 52 H278" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="290" y="0" width="180" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="380" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Русский язык</text>
+<text x="380" y="72" text-anchor="middle" font-family="Arial" font-size="15">гиды · координатор</text>
+<path d="M480 52 H568" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="580" y="0" width="180" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="670" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">VIP-сервисы</text>
+<text x="670" y="72" text-anchor="middle" font-family="Arial" font-size="15">jet · yacht · heli</text>
+<path d="M770 52 H858" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="870" y="0" width="180" height="105" rx="16" fill="#111"/>
+<text x="960" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#fff">Поддержка</text>
+<text x="960" y="72" text-anchor="middle" font-family="Arial" font-size="15" fill="#fff">изменения в поездке</text>
+</g>
+<text x="95" y="405" font-family="Arial" font-size="22" font-weight="700">Ключевой вопрос рейтинга</text>
+<text x="95" y="445" font-family="Arial" font-size="18">Есть ли у компании подтвержденная способность управлять всей этой цепочкой,</text>
+<text x="95" y="477" font-family="Arial" font-size="18">а не только продать отдельный отель, экскурсию или готовый пакет.</text>
+<text x="95" y="555" font-family="Arial" font-size="17">IndexResearch · VIP Brazil scenario · 18 сентября 2026</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+</svg>
