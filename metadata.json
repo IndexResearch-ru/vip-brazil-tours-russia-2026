@@ -2,7 +2,7 @@
   "title": "Кого выбрать для VIP-тура по Бразилии с русскоязычным сопровождением: ТОП-10 компаний, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
@@ -13,5 +13,8 @@
   "editorialControl": "IndexResearch применил одну замороженную модель критериев ко всем 15 участникам.",
   "methodologyFrozenAt": "2026-09-18",
   "designReviewStatus": "PASS",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "summaryUrl": "https://indexresearch.ru/vip-brazil-tours-russia-2026.html",
+  "siteQa": "PASS",
+  "siteQaDate": "2026-09-18"
 }
