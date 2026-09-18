@@ -8,3 +8,4 @@
 - зафиксированы 7 критериев и веса;
 - проведен sensitivity check на 50 000 вариантах;
 - подготовлены README, CSV/JSON, disclosure, FAQ и SVG-визуализации.
+- опубликована summary page на indexresearch.ru, добавлена карточка в каталоге и пройден технический site QA.
