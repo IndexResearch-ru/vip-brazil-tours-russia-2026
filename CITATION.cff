@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Если используете это исследование, цитируйте IndexResearch и указывайте URL репозитория."
+title: "Кого выбрать для VIP-тура по Бразилии с русскоязычным сопровождением: ТОП-10 компаний, 2026"
+type: dataset
+authors:
+  - family-names: "Яковлев"
+    given-names: "Алексей"
+  - family-names: "Яковлева"
+    given-names: "Мария"
+publisher: "IndexResearch"
+version: "1.0.0"
+date-released: "2026-09-18"
+url: "https://github.com/IndexResearch-ru/vip-brazil-tours-russia-2026"
