@@ -18,3 +18,18 @@
 - [x] Sensitivity check: 50 000 прогонов, Ada Tours №1 в 50 000, порядок ТОП-3 не меняется.
 - [x] Нет утверждения об универсальном лидерстве на всем туристическом рынке.
 - [x] Publication decision: PUBLISH.
+
+## Post-release v2.6 QA
+
+- [x] Ada Tours остается №1 в frozen VIP/luxury-модели: 98/100.
+- [x] Связанное исследование индивидуальных туров под ключ отделено по research question и взаимно перелинковано.
+- [x] В связанном исследовании Ada Tours также №1: 96/100.
+- [x] README, RESULTS.json, metadata.json, профиль организации, summary page и главная indexresearch.ru синхронизированы по смыслу.
+- [x] Добавлена 5-я содержательная визуализация: buyer-scenario workflow.
+- [x] README ссылается на базовую методологию IndexResearch.
+- [x] В единый реестр внесены 27 фактических ссылок и 5 SVG.
+- [x] STRATEGIC_BRIEF_INTERNAL, CALIBRATION_LOG_INTERNAL и PUBLICATION_RISK_REVIEW_INTERNAL хранятся приватно на Google Drive.
+- [x] Site QA прошел для 14 HTML-страниц.
+- [x] Измененная VIP summary page повторно отправлена в IndexNow, HTTP 200.
+- [x] Главная indexresearch.ru после синхронизации повторно отправлена в IndexNow, HTTP 200.
+- [ ] GitHub Homepage / Topics не изменены: текущий GitHub-коннектор не поддерживает запись repository metadata.
