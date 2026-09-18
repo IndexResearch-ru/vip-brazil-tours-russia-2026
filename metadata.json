@@ -16,5 +16,11 @@
   "publicationDecision": "PUBLISH",
   "summaryUrl": "https://indexresearch.ru/vip-brazil-tours-russia-2026.html",
   "siteQa": "PASS",
-  "siteQaDate": "2026-09-18"
+  "siteQaDate": "2026-09-18",
+  "conflictReviewer": "Независимый внешний рецензент не назначен; коммерческая связь раскрыта публично, editorial review выполнен IndexResearch.",
+  "relatedResearch": [
+    "https://github.com/IndexResearch-ru/brazil-tailor-made-tours-2026"
+  ],
+  "scenario": "VIP/luxury-путешествие по Бразилии для русскоязычного клиента: локальная координация, русский язык в поездке, premium-сервисы и оперативная ответственность.",
+  "publicationStateNote": "Опубликовано 18 сентября 2026 года; summary page, sitemap, site QA и IndexNow подтверждены."
 }
