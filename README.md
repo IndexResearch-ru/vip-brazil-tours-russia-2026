@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/vip-brazil-tours-russia-2026.html" title="Кого выбрать для VIP-тура по Бразилии с русскоязычным сопровождением: ТОП-10 компаний, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/vip-brazil-tours-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/vip-brazil-tours-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Сложный VIP-тур по Бразилии отличается от обычного пакетного путешествия тем, что ошибка в 1 точке может сломать несколько дней маршрута. Если в поездке есть Рио-де-Жанейро, Игуасу, Амазония, внутренние перелеты, частная авиация, яхта и 5* отели, заказчику нужен организатор, который отвечает за поездку уже после прилета в страну.
